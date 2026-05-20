@@ -1,0 +1,5 @@
+fu_agent_online_smoke_20260520T063216Z
+
+This file was created as part of an online smoke test.
+Timestamp: 2026-05-20T06:32:16Z
+Marker: fu_agent_online_smoke_20260520T063216Z
