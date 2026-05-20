@@ -1,0 +1,1 @@
+smoke test: fu_agent_online_smoke_20260520T081708Z
